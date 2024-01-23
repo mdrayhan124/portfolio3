@@ -33,7 +33,7 @@ const Hero = () => {
         </motion.div>
 
         <a className={css.email} href="mailto:zainkeepscode@gmail.com">
-          zainkeepscode@gmail.com
+          rayhan124.dev@gmail.com
         </a>
 
         <div className={css.lowerElements}>
@@ -48,7 +48,7 @@ const Hero = () => {
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
             <img src="./certificate.png" alt="" />
             <span>CERTIFIED PROFATIONAL</span>
-            <span>UI/UX DESIGNER</span>
+            <span>Front-End Web Developer</span>
           </motion.div>
         </div>
       </motion.div>
